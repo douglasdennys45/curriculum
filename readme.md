@@ -6,11 +6,11 @@ Entregar para o cliente uma ferramenta que li atenda e que facilite sua vida, as
 
 ## Habilidades 
 
-- Back-End: PHP, Node.JS, Ruby e Python.
-- Front-End: Vue.js, Angular 2+, React.JS, Javascript, jQuery.
-- Mobile: React-Native, Ionic, Vue-Native
-- Banco de Dados: MySQL, PostgreSQL, SQLite, MongoDB, Redis.
-- Infraestrutura: AWS, Digital Ocean ou qualquer outra VPS.
+- Back-End: GoLang, PHP, Node.JS, Ruby e Python.
+- Front-End: Vue.js, Angular 2+, React.JS, Javascript.
+- Mobile: Flutter, React-Native, Ionic e Vue-Native
+- Banco de Dados: MySQL, PostgreSQL, SQLite, MongoDB, Redis e DynamoDB.
+- Infraestrutura: AWS, Google Cloud Plataform e Digital Ocean.
 
 ## Experiência
 
@@ -29,5 +29,5 @@ Responsavel pelo site da empresa: https://clubedaposta.com. O site é desenvolvi
 - CEPEP - Mossoró - Técnico em informática - 
 Curso iniciado no início de 2014 com conclusão em 2015.
 
-- UNIT - Mossoró - Tecnólogo em Analise e Desenvolvimento de Sistemas - 
-Curso iniciado no início de 2017 com conclusão em 2019.
+- UNP - Mossoró - Ciência da Computação - 
+Curso iniciado no início de 2021 com conclusão em 2025.
